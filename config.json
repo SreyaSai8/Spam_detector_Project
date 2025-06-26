@@ -1,0 +1,7 @@
+{
+  "model_name": "spam_Navie",
+  "version": "1.0.0",
+  "confidence_threshold": 0.6,
+  "labels": ["spam", "not_spam"],
+  "log_predictions": true
+}
